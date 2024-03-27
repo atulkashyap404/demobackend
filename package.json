@@ -1,0 +1,19 @@
+{
+  "name": "fresh-new-backend",
+  "version": "1.0.0",
+  "description": "a demo backend app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "backend"
+  ],
+  "author": "atul kashyap",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}
